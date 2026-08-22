@@ -1,16 +1,32 @@
-# ecommerceapp21
+# 🛒 E-Commerce App (Mobile Frontend)
 
-A new Flutter project.
+A full-featured E-Commerce mobile application built with Flutter. The app provides a seamless shopping experience including product browsing, cart management, and order placement.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+* 🔐 **User Authentication:** Sign up, Login, and Password recovery.
+* 🛍️ **Product Catalog:** Browse products by categories with dynamic search & filtering.
+* 🛒 **Cart & Wishlist:** Add/remove items, manage quantities, and save favorites.
+* 📍 **Address Management:** Add and update shipping addresses.
+* 💳 **Checkout System:** Smooth order creation flow.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tech Stack & Packages
+
+* **Framework:** [Flutter](https://flutter.dev/) (Dart)
+* **State Management:** GetX
+* **UI Components:** Custom Widgets, Google Fonts, ScreenUtil
+* **Architecture:** MVC Pattern
+
+---
+
+## 🔗 Related Repositories
+
+* **Backend API:** [View Backend Repository](https://github.com/israaldroubi122/ecommerce-app-backend)
+
+---
+
+
