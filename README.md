@@ -25,7 +25,7 @@ A full-featured E-Commerce mobile application built with Flutter. The app provid
 
 ## 🔗 Related Repositories
 
-* **Backend API:** [View Backend Repository]([https://github.com/israaaldroubi122/ecommerce-app-backend])
+* **Backend API:** [View Backend Repository](https://github.com/israaaldroubi122/ecommerce-app-backend)
 
 ---
 
